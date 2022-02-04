@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <script src="https://code.jquery.com/jquery-3.6.0.js" ></script>
+    <title>Bonjour tous le monde</title>
+</head>
+<body>
+    <!-- Le script ne fonctionnera pas, car le code javascript s'exécute avant 
+    le chargement de la balise h1 -->
+    <script>
+        `use strict`
+        $("h1").text("Bonjour tous le monde");
+    </script>
+    <h1>Titre </h1>
+</body>
+</html>

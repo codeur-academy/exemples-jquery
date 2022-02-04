@@ -59,3 +59,25 @@ Avec une combinaison de polyvalence et d'**extensibilité**, jQuery a changé la
 ## Références 
 - [auto-formation : www.w3schools.co](https://www.w3schools.com/jquERy/default.asp)
 - [jquery](https://jquery.com/)
+
+
+
+
+
+  - Installation
+  - Syntaxe 
+  - Sélecteurs 
+  - Événements 
+  - jQuery Hide/Show
+  - jQuery Callback Functions
+  - jQuery Get / Set
+  - jQuery Add / Remove
+  - jQuery CSS Classes
+  - jQuery Dimensions
+  - Qu'est-ce que le Traversage
+  - jQuery Ancestors
+  - jQuery Descendants
+  - jQuery Siblings
+  - jQuery Filtering
+  - jQuery Load
+  - jQuery Get/Post
